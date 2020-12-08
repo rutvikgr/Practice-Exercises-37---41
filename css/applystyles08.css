@@ -1,0 +1,43 @@
+/* Style sheet created by: Rutvik Gondaliya Date: 27/11/2020 */
+
+/* Style for body specifies a background color */
+body {
+	background-color: #669999;
+}
+
+/* Style for the container element */
+#container {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Style for the footer element */
+footer {
+	font-size: .70em;
+	text-align: center;
+}
+
+/* Style for the table element */
+table {
+	width: 80%; margin-left: auto; margin-right: auto;
+}
+
+/* Style for the table header, table row, and  table data  */
+table, tr, th, td {
+	border-collapse: collapse;
+	border: solid 0.1em #000000;
+	padding: 1em;
+}
+
+/* Style for the table data */
+td {
+	text-align: center;
+}
+
+/* Style for the table caption element */
+caption {
+	font-size: 2em;
+	padding: 1em;
+	margin-top: 1em;
+}
